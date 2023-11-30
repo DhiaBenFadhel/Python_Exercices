@@ -24,4 +24,4 @@ while True:
 if trys == 1:
     print("Well done, you guessed it out in", trys,"trys😲")
 else:
-    print("You guessed it out in ", trys," trys 🐢 ")
+    print(f"You guessed it out in {trys} trys 🐢 ")
